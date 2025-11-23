@@ -72,7 +72,7 @@ export default function Signup() {
 							name="name"
 							value={form.name}
 							onChange={onChange}
-							placeholder="John Doe"
+							placeholder="Your Name"
 							className="w-full rounded-lg border border-white/10 bg-white/5 px-4 py-3 outline-none focus:ring-2 focus:ring-cyan-400 text-white placeholder:text-white/40"
 							required
 						/>
