@@ -20,48 +20,48 @@ const cards = [
 const teamMembers = [
 	{
 		name: 'Vaishnavi Mathur',
-		role: 'Lead AI Engineer',
+		role: 'Group Leader',
 		image: vaishnaviImg
 	},
 	{
 		name: 'Mahek Gupta',
-		role: 'Creative Director',
+		role: 'Member',
 		image: mehekImg
 	},
 	{
 		name: 'Divya Sanap',
-		role: 'Head of Product',
+		role: 'Member',
 		image: divyaImg
 	},
 	{
 		name: 'Sujaan Badani',
-		role: 'VFX Specialist',
+		role: 'Member',
 		image: sujaanImg
 	},
 	{
 		name: 'Priya Vayas',
-		role: 'ML Research Lead',
+		role: 'Member',
 		image: priyaVayasImg,
 		imageClass: 'object-top'
 	},
 	{
 		name: 'Chhayansi Nitya',
-		role: 'Post-Production Expert',
+		role: 'Member',
 		image: chhayansiNityaImg
 	},
 	{
-		name: 'Angelina Shaji',
-		role: 'Production Strategist',
+		name: 'Angelina George',
+		role: 'Member',
 		image: angelinaImg
 	},
 	{
 			name: 'Trina Rao',
-		role: 'Data Pipeline Lead',
+		role: 'Member',
 		image: trinaRaoImg
 	},
 	{
 		name: 'Alima Sudheeran',
-		role: 'Data Pipeline Lead',
+		role: 'Member',
 		image: alimaSudheeranImg
 	}
 ]
